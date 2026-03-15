@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kashmir Krafts</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+<h2>Kashmir Krafts</h2>
+
+<div>
+<a href="index.html">Home</a>
+<a href="products.html">Products</a>
+<a href="signin.html">Sign In</a>
+</div>
+</nav>
+
+<section class="hero">
+
+<h1>Handcrafted Beauty from Kashmir</h1>
+<p>Elegant handmade products crafted with tradition.</p>
+
+<a href="products.html">
+<button>Explore Products</button>
+</a>
+
+</section>
+
+</body>
+</html>
